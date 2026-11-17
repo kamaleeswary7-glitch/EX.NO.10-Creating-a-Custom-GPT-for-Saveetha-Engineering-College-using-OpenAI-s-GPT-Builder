@@ -1,4 +1,4 @@
-# EX.NO.10-Creating-a-Custom-GPT-for-Saveetha-Engineering-College-using-OpenAI-s-GPT-Builder
+
 ## AIM
 To develop an intelligent college assistance chatbot using OpenAI's GPT Builder. The chatbot is designed to provide useful information to students regarding academic activities, department details, examination updates, campus services and general college enquiries.
 
@@ -6,18 +6,22 @@ To develop an intelligent college assistance chatbot using OpenAI's GPT Builder.
 Artificial Intelligence is widely used to improve communication and provide quick access to information. A Custom GPT is an AI-powered chatbot that can be customised for a particular purpose. In this experiment, a specialised chatbot named Saveetha Smart Campus Assistant is designed to help students and visitors obtain college-related information through natural language conversations.
 
 ## OBJECTIVES
+~~~
 To understand the working of Custom GPTs.
 To explore the features of OpenAI GPT Builder.
 To create a chatbot for college-related enquiries.
 To provide quick responses to common student questions.
 To improve information accessibility through AI technology.
+~~~
 ## TOOLS REQUIRED
-Computer or laptop.
-Internet connection.
+~~~
+.Computer or laptop.
+.Internet connection.
 Web browser (Google Chrome).
 OpenAI ChatGPT account with access to GPT creation.
 College-related information in PDF or DOCX format.
 GPT Builder platform.
+~~~
 ## PROCEDURE
 ## Step 1: Identifying the Chatbot Requirements
 First, identify the common questions asked by students and visitors. These may include department information, academic programmes, library facilities, examination procedures and campus services.
@@ -63,6 +67,7 @@ Test the chatbot by entering different college-related questions. Verify whether
 After successful testing, save the Custom GPT and select the appropriate sharing option based on the available access settings. The chatbot can then be shared with intended users.
 
 ## SAMPLE INSTRUCTIONS (SYSTEM PROMPT) FOR THE GPT
+~~~
 Saveetha Smart Campus Assistant You are an intelligent virtual assistant for Saveetha Engineering College. Your responsibilities are:
 
 Help students understand academic programmes and departments.
@@ -71,8 +76,12 @@ Explain general college procedures in simple English.
 Guide visitors with basic college-related enquiries.
 Use uploaded reference documents whenever relevant.
 If information is unavailable, politely suggest contacting the appropriate college department. Always maintain a friendly, helpful and professional tone.
+~~~
 ## SAMPLE OUTPUT SCREEN
 The chatbot provides responses to student queries about academic departments, campus facilities and student support services. It understands natural-language questions and generates relevant answers based on the available reference information. image
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7dcaead3-67e9-4524-aea3-e2706bc11fac" />
+
+
 
 ## OUTPUT
 The Saveetha Smart Campus Assistant successfully demonstrates how a Custom GPT can be configured to function as a virtual college information assistant.
