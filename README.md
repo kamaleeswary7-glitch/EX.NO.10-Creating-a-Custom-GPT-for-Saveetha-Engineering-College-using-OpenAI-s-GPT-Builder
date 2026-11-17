@@ -1,4 +1,4 @@
-
+## EX.NO.10-Creating-a-Custom-GPT-for-Saveetha-Engineering-College-using-OpenAI-s-GPT-Builder 
 ## AIM
 To develop an intelligent college assistance chatbot using OpenAI's GPT Builder. The chatbot is designed to provide useful information to students regarding academic activities, department details, examination updates, campus services and general college enquiries.
 
